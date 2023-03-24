@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-15T04:59:10+00:00</lastmod>
+		<lastmod>2023-03-21T07:45:26+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
@@ -26,12 +26,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/service-areas</loc>
-		<lastmod>2023-03-16T08:03:22+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/services/swiflet-house-care</loc>
-		<lastmod>2023-03-15T04:58:25+00:00</lastmod>
+		<lastmod>2023-03-24T02:41:33+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
@@ -41,7 +37,7 @@
 	</url>
 	<url>
 		<loc>/services/swiflet-house-installation</loc>
-		<lastmod>2023-03-15T04:51:56+00:00</lastmod>
+		<lastmod>2023-03-24T02:35:40+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/instalasi-rumah-walet-575x1024-1.jpg</image:loc>
 		</image:image>
@@ -51,7 +47,7 @@
 	</url>
 	<url>
 		<loc>/services/design-swiflet-house</loc>
-		<lastmod>2023-03-15T04:47:08+00:00</lastmod>
+		<lastmod>2023-03-24T02:34:46+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
@@ -61,7 +57,7 @@
 	</url>
 	<url>
 		<loc>/services/build-swiflet-house</loc>
-		<lastmod>2023-03-15T04:32:16+00:00</lastmod>
+		<lastmod>2023-03-24T02:33:02+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
@@ -71,7 +67,7 @@
 	</url>
 	<url>
 		<loc>/services</loc>
-		<lastmod>2023-03-15T04:22:05+00:00</lastmod>
+		<lastmod>2023-03-24T02:19:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Pembangunan-Rumah-Walet-480x320-1.jpg</image:loc>
 		</image:image>
@@ -90,7 +86,7 @@
 	</url>
 	<url>
 		<loc>/about-us</loc>
-		<lastmod>2023-03-15T04:18:58+00:00</lastmod>
+		<lastmod>2023-03-24T02:18:19+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2020/07/about-1.jpg</image:loc>
 		</image:image>
@@ -117,16 +113,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact-us</loc>
-		<lastmod>2023-03-15T04:15:44+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/privacy-policy</loc>
-		<lastmod>2023-03-15T04:15:27+00:00</lastmod>
+		<loc>/services/service-areas</loc>
+		<lastmod>2023-03-21T09:01:13+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/blog</loc>
-		<lastmod>2023-03-15T04:14:24+00:00</lastmod>
+		<lastmod>2023-03-21T08:55:45+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-2.jpg</image:loc>
 		</image:image>
@@ -151,6 +143,14 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/02/Mantap-1024x683.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/contact-us</loc>
+		<lastmod>2023-03-21T08:55:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/privacy-policy</loc>
+		<lastmod>2023-03-15T04:15:27+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/terms-and-conditions</loc>
