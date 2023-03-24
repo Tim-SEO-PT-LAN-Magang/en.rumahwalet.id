@@ -1,159 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://en.rumahwalet.id/</loc>
 		<lastmod>2023-03-21T07:45:26+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/gallery-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/07/gallery-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/gallery-2.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/07/gallery-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/gallery1-free-img.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/06/gallery1-free-img.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/gallery3-free-img.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/06/gallery3-free-img.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/gallery4-free-img.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/06/gallery4-free-img.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/06/left-free-img.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/06/left-free-img.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/swiflet-house-care</loc>
+		<loc>https://en.rumahwalet.id/services/swiflet-house-care</loc>
 		<lastmod>2023-03-24T02:41:33+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/swiflet-house-installation</loc>
+		<loc>https://en.rumahwalet.id/services/swiflet-house-installation</loc>
 		<lastmod>2023-03-24T02:35:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/instalasi-rumah-walet-575x1024-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/instalasi-rumah-walet-575x1024-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/design-swiflet-house</loc>
+		<loc>https://en.rumahwalet.id/services/design-swiflet-house</loc>
 		<lastmod>2023-03-24T02:34:46+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/build-swiflet-house</loc>
+		<loc>https://en.rumahwalet.id/services/build-swiflet-house</loc>
 		<lastmod>2023-03-24T02:33:02+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/Bangun-RUmah-Walet-575x1024-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/gedung-walet-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services</loc>
+		<loc>https://en.rumahwalet.id/services</loc>
 		<lastmod>2023-03-24T02:19:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Pembangunan-Rumah-Walet-480x320-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/Pembangunan-Rumah-Walet-480x320-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/full-kitchen.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/07/full-kitchen.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/Installasi-rumah-walet-480x320-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/Installasi-rumah-walet-480x320-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/perawatan-rumah-walet-480x320-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/perawatan-rumah-walet-480x320-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/rumah-walet-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/rumah-walet-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-us</loc>
+		<loc>https://en.rumahwalet.id/about-us</loc>
 		<lastmod>2023-03-24T02:18:19+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2020/07/about-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2020/07/about-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/11/founder.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2019/11/founder.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/11/manager.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2019/11/manager.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2019/11/receptionist.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2019/11/receptionist.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/03/pemasangan-besi-slop-640x960-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/03/pemasangan-besi-slop-640x960-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/services/service-areas</loc>
+		<loc>https://en.rumahwalet.id/services/service-areas</loc>
 		<lastmod>2023-03-21T09:01:13+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/blog</loc>
+		<loc>https://en.rumahwalet.id/blog</loc>
 		<lastmod>2023-03-21T08:55:45+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-2.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-2.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/IMG_9158-1024x683.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/IMG_9158-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Di-dalam-rumah-walet-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Di-dalam-rumah-walet-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Installasi-Rumah-Walet-1024x683.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Installasi-Rumah-Walet-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/pengerjaan-awal-dinding-1024x576.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/pengerjaan-awal-dinding-1024x576.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-1.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Instalasi-Rumah-Walet-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Rumah-Walet-Kayu-Minimalis-youtube.com_.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Rumah-Walet-Kayu-Minimalis-youtube.com_.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/02/Mantap-1024x683.jpg</image:loc>
+			<image:loc>https://en.rumahwalet.id/wp-content/uploads/2023/02/Mantap-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact-us</loc>
+		<loc>https://en.rumahwalet.id/contact-us</loc>
 		<lastmod>2023-03-21T08:55:05+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/privacy-policy</loc>
+		<loc>https://en.rumahwalet.id/privacy-policy</loc>
 		<lastmod>2023-03-15T04:15:27+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/terms-and-conditions</loc>
+		<loc>https://en.rumahwalet.id/terms-and-conditions</loc>
 		<lastmod>2023-03-13T15:44:13+00:00</lastmod>
 	</url>
 </urlset>
