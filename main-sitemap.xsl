@@ -97,6 +97,7 @@
 				</style>
 			</head>
 			<body>
+
 				<xsl:choose>
 					<xsl:when test="kml:kml">
 
